@@ -1,0 +1,12 @@
+/*******TAG selectors******/
+body {background-color: peru;}
+h1 {color: red; font-size:30px;}
+h1 :hover{JESUS LOVES YOU}
+img:hover{background-color: gold;}
+/******class selector*****/
+.bacon{background-color: green;}
+.brocoli{background-color: red;}
+.circular{border-radius:100%;}
+/*******ID selectors******/
+#heading{color: aqua;}
+
